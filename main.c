@@ -64,3 +64,4 @@ void useGlobal(){
     printf("\nlocal x is %d on exiting useGlobal\n",x);
 
 }
+//peto
